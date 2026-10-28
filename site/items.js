@@ -915,7 +915,7 @@ export default [
       ]
     ],
     "tags": [],
-    "wiki": "Universitaly",
+    "wiki": "Colosseum",
     "image": "https://loremflickr.com/800/600/study,books?lock=4523",
     "gallery": [
       "https://loremflickr.com/800/600/study,books?lock=4524",
@@ -1125,7 +1125,7 @@ export default [
       ]
     ],
     "tags": [],
-    "wiki": "Visa policy of the Schengen Area",
+    "wiki": "Passport",
     "image": "https://loremflickr.com/800/600/study,books?lock=4250",
     "gallery": [
       "https://loremflickr.com/800/600/study,books?lock=4251",
